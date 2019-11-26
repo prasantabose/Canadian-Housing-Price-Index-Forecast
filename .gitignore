@@ -4,3 +4,5 @@
 model.png
 .ipynb_checkpoints/NHPI Index Forecast using ARIMA-checkpoint.ipynb
 .ipynb_checkpoints/NHPI Index Forecast using ANN-checkpoint.ipynb
+.gitignore
+.gitattributes
