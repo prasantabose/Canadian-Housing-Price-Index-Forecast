@@ -1,2 +1,6 @@
 
 *.csv
+.ipynb_checkpoints/NHPI Index Forecast using SVR-checkpoint.ipynb
+model.png
+.ipynb_checkpoints/NHPI Index Forecast using ARIMA-checkpoint.ipynb
+.ipynb_checkpoints/NHPI Index Forecast using ANN-checkpoint.ipynb
